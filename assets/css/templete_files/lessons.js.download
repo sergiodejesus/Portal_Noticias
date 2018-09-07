@@ -1,0 +1,23 @@
+var iframe = document.querySelector('iframe');
+var player = new Vimeo.Player(iframe);
+var ended = false;
+player.on('play', function() {
+    $.post({
+    	url:BASE_URL+'ajax/view',
+    	data:{lesson:lid,type:'start'}
+    });
+});
+player.on('timeupdate', function(e) {
+	if(e.percent >= 0.95 && ended == false) {
+		ended = true;
+		$.post({
+	    	url:BASE_URL+'ajax/view',
+	    	data:{lesson:lid,type:'end'},
+	    	success:function(r){
+	    		if(r=='1') {
+	    			showNotification('Você ganhou +1 ponto!');
+	    		}
+	    	}
+	    });
+	}
+});

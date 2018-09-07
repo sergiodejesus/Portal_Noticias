@@ -1,0 +1,673 @@
+<!DOCTYPE html>
+<!-- saved from url=(0044)https://alunos.b7web.com.br/lesson/open/1308 -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		
+		<title>B7Web - Plataforma</title>
+		<link rel="shortcut icon" href="https://alunos.b7web.com.br/assets/images/logo_b7web_only80.png" type="image/png">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="./templete_files/css" type="text/css">
+		<link rel="stylesheet" href="./templete_files/bootstrap.min.css" type="text/css">
+		<link rel="stylesheet" href="./templete_files/magnific-popup.css" type="text/css">
+		<link rel="stylesheet" href="./templete_files/style.css" type="text/css">
+		<script type="text/javascript" src="./templete_files/jquery.min.js.download"></script>
+	<link rel="import" href="chrome-extension://kkelicaakdanhinjdeammmilcgefonfh/assets/tpl/resize-tooltip.html"></head>
+	<body>
+		<div class="sidebar_toggle"></div>
+		<sidebar class="sidebar" style="height: 2990px;">
+			<div class="logo">
+				<a href="https://alunos.b7web.com.br/lesson/open/1308"><img src="./templete_files/logo.png" border="0" width="35"></a>
+			</div>
+			<div class="userinfo">
+				<div class="userinfo_photo">
+					<img src="./templete_files/default.jpg" border="0" width="41" height="41">
+				</div>
+				<div class="userinfo_info">
+					<p>Sergio D.</p>
+					<small>80 pontos</small>
+				</div>
+				<div class="userinfo_notifications ndisabled">0</div>
+				<div class="userinfo_notif_window">
+					<div class="userinfo_notif_area">
+					</div>
+				</div>
+				<div style="clear:both"></div>
+			</div>
+			<menu>
+								<ul>
+					<li><a href="https://alunos.b7web.com.br/">Dashboard</a></li>
+					<li class="active"><a href="https://alunos.b7web.com.br/courses">Cursos</a></li>
+					<li><a href="https://alunos.b7web.com.br/live">Aulas Online</a></li>
+					<li><a href="https://alunos.b7web.com.br/annotations">Anotações</a></li>
+					<li><a href="https://alunos.b7web.com.br/discussions">Discussões</a></li>
+					<li><a href="https://alunos.b7web.com.br/clubs">Meus Clubes</a></li>
+					<li><a href="https://alunos.b7web.com.br/profile">Meu Perfil</a></li>
+					<li><a href="https://alunos.b7web.com.br/support">Suporte</a></li>
+					<li><a href="https://alunos.b7web.com.br/login/logout">Sair</a></li>
+									</ul>
+							</menu>
+		</sidebar>
+		<div class="main">
+		<div class="button" style="background-image:url(&#39;https://alunos.b7web.com.br/assets/images/left-arrow.png&#39;)"><a href="https://alunos.b7web.com.br/modules/open/1">Voltar aos módulos</a></div>
+<div class="annotation_button">
+	Anotações <img src="./templete_files/align-to-left.png" border="0" width="30" height="30">
+</div>
+<div class="annotation_box anno_closed">
+		<div class="anno_info">
+			<h2>Suas Anotações</h2>
+			<br>
+			É só digitar abaixo, o sistema salva automaticamente.
+		</div>
+				<textarea class="anno" resize="false"></textarea>
+				<small></small>
+	</div>
+<div style="clear:both"></div>
+
+<div class="videobox">
+	<div class="embed-responsive embed-responsive-16by9">
+								<iframe class="embed-responsive-item" src="./templete_files/248806110.html" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" data-ready="true"></iframe>
+						</div>
+</div>
+
+<div class="prevnext">
+	<div style="display:flex;">
+		<div style="flex:1;">
+						<div class="button prevbutton" style="background-image:url(&#39;https://alunos.b7web.com.br/assets/images/left-arrow.png&#39;);"><a href="https://alunos.b7web.com.br/lesson/open/1298">Aula Anterior</a></div>
+					</div>
+		<div id="m_a" style="flex:1;display: flex;justify-content: center;">
+											<div class="button lesson_bt_marcar">Marcar como assistida</div>
+									</div>
+		<div style="flex:1;">
+						<div class="button nextbutton" style="background-image:url(&#39;https://alunos.b7web.com.br/assets/images/right-arrow.png&#39;);"><a href="https://alunos.b7web.com.br/lesson/open/1309">Próxima Aula</a></div>
+					</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-sm-8">
+		<div class="box">
+			<div class="box-body">
+				<h2>Projeto: Site com Flexbox e HTML Semântico (parte 1)</h2>
+				<br>
+								<h5>Arquivos usados nesta aula:</h5>
+									<div class="file_item">
+						<a href="https://alunos.b7web.com.br/media/files/php_medicenter_1.zip" target="_blank">
+							<img src="./templete_files/download.png" border="0" width="15" height="15">
+							Mídia para usar na aula						</a>
+					</div>
+												<br>
+								<br>
+
+			</div>
+		</div>
+		<div class="box">
+			<div class="box-title">
+				<div class="box-ttext">Discussões nesta aula:</div>
+								<div class="button" style="float:right;margin-top:12px;background-image:url(&#39;https://alunos.b7web.com.br/assets/images/plus-black-symbol.png&#39;)"><a href="https://alunos.b7web.com.br/discussions/new_topic/1?lesson=1308" target="_blank">Criar Novo Tópico</a></div>
+							</div>
+			<div class="box-body dis_links">
+																			<a target="_blank" href="https://alunos.b7web.com.br/discussions/open/7463">
+						<div class="discussion_item">
+								<div class="dis_img dis_img_solved">
+									<img src="./templete_files/text-file.png" border="0" width="25" height="25">
+								</div>
+								<div class="dis_info">
+									<div class="dis_title">
+										IMAGEM-MODELO PARA OS EXERCÍCIOS PROPOSTOS									</div>
+									<div class="dis_author">postado por <img src="./templete_files/65debd68dc6cc569631ba589d638ac7e.jpg" border="0" width="15" height="15"> Jerry A.&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<img src="./templete_files/time.png" border="0" width="13" height="13"> há 100 dias atrás</div>
+								</div>
+								<div class="dis_posts">
+									6								</div>
+						</div>
+					</a>
+										<a target="_blank" href="https://alunos.b7web.com.br/discussions/open/7092">
+						<div class="discussion_item">
+								<div class="dis_img dis_img_solved">
+									<img src="./templete_files/text-file.png" border="0" width="25" height="25">
+								</div>
+								<div class="dis_info">
+									<div class="dis_title">
+										Porquê o uso do &lt;header&gt;???									</div>
+									<div class="dis_author">postado por <img src="./templete_files/4eb47a30dbb962ad7101f8d3efe2d1ec.jpg" border="0" width="15" height="15"> Bruno C.&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<img src="./templete_files/time.png" border="0" width="13" height="13"> há 100+ dias atrás</div>
+								</div>
+								<div class="dis_posts">
+									3								</div>
+						</div>
+					</a>
+										<a target="_blank" href="https://alunos.b7web.com.br/discussions/open/5430">
+						<div class="discussion_item">
+								<div class="dis_img dis_img_solved">
+									<img src="./templete_files/text-file.png" border="0" width="25" height="25">
+								</div>
+								<div class="dis_info">
+									<div class="dis_title">
+										ARQUIVOS									</div>
+									<div class="dis_author">postado por <img src="./templete_files/default.jpg" border="0" width="15" height="15"> HELBERT D.&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<img src="./templete_files/time.png" border="0" width="13" height="13"> há 100+ dias atrás</div>
+								</div>
+								<div class="dis_posts">
+									3								</div>
+						</div>
+					</a>
+										<a target="_blank" href="https://alunos.b7web.com.br/discussions/open/5297">
+						<div class="discussion_item">
+								<div class="dis_img dis_img_solved">
+									<img src="./templete_files/text-file.png" border="0" width="25" height="25">
+								</div>
+								<div class="dis_info">
+									<div class="dis_title">
+										Porque não usa o DOCTYPE?									</div>
+									<div class="dis_author">postado por <img src="./templete_files/default.jpg" border="0" width="15" height="15"> Evertom A.&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<img src="./templete_files/time.png" border="0" width="13" height="13"> há 100+ dias atrás</div>
+								</div>
+								<div class="dis_posts">
+									4								</div>
+						</div>
+					</a>
+										<a target="_blank" href="https://alunos.b7web.com.br/discussions/open/5049">
+						<div class="discussion_item">
+								<div class="dis_img dis_img_solved">
+									<img src="./templete_files/text-file.png" border="0" width="25" height="25">
+								</div>
+								<div class="dis_info">
+									<div class="dis_title">
+										Banco de imagens									</div>
+									<div class="dis_author">postado por <img src="./templete_files/9d305d781100c6c8712a6a374dfb3e18.jpg" border="0" width="15" height="15"> Renato B.&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<img src="./templete_files/time.png" border="0" width="13" height="13"> há 100+ dias atrás</div>
+								</div>
+								<div class="dis_posts">
+									3								</div>
+						</div>
+					</a>
+										<a target="_blank" href="https://alunos.b7web.com.br/discussions/open/8594">
+						<div class="discussion_item">
+								<div class="dis_img dis_img_solved">
+									<img src="./templete_files/text-file.png" border="0" width="25" height="25">
+								</div>
+								<div class="dis_info">
+									<div class="dis_title">
+										imagem do site para teste									</div>
+									<div class="dis_author">postado por <img src="./templete_files/default.jpg" border="0" width="15" height="15"> Miguel E.&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<img src="./templete_files/time.png" border="0" width="13" height="13"> há 68 dias atrás</div>
+								</div>
+								<div class="dis_posts">
+									1								</div>
+						</div>
+					</a>
+										<a target="_blank" href="https://alunos.b7web.com.br/discussions/open/6829">
+						<div class="discussion_item">
+								<div class="dis_img dis_img_solved">
+									<img src="./templete_files/text-file.png" border="0" width="25" height="25">
+								</div>
+								<div class="dis_info">
+									<div class="dis_title">
+										Duvida na estrutura do site.									</div>
+									<div class="dis_author">postado por <img src="./templete_files/db9a5dc279e754107f780cc5bdeaf4a4.jpg" border="0" width="15" height="15"> MARIA J.&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<img src="./templete_files/time.png" border="0" width="13" height="13"> há 100+ dias atrás</div>
+								</div>
+								<div class="dis_posts">
+									2								</div>
+						</div>
+					</a>
+										<a target="_blank" href="https://alunos.b7web.com.br/discussions/open/7786">
+						<div class="discussion_item">
+								<div class="dis_img dis_img_solved">
+									<img src="./templete_files/text-file.png" border="0" width="25" height="25">
+								</div>
+								<div class="dis_info">
+									<div class="dis_title">
+										Como centralizar o site ao centro e deixar um div abaixo do outro (dentro do header)									</div>
+									<div class="dis_author">postado por <img src="./templete_files/default.jpg" border="0" width="15" height="15"> Vander J.&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<img src="./templete_files/time.png" border="0" width="13" height="13"> há 91 dias atrás</div>
+								</div>
+								<div class="dis_posts">
+									5								</div>
+						</div>
+					</a>
+										<a target="_blank" href="https://alunos.b7web.com.br/discussions/open/6674">
+						<div class="discussion_item">
+								<div class="dis_img dis_img_solved">
+									<img src="./templete_files/text-file.png" border="0" width="25" height="25">
+								</div>
+								<div class="dis_info">
+									<div class="dis_title">
+										erro na chamada do css									</div>
+									<div class="dis_author">postado por <img src="./templete_files/2972444a8ed5b36b13fd86171d1ff35a.jpg" border="0" width="15" height="15"> Willian V.&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<img src="./templete_files/time.png" border="0" width="13" height="13"> há 100+ dias atrás</div>
+								</div>
+								<div class="dis_posts">
+									5								</div>
+						</div>
+					</a>
+										<a target="_blank" href="https://alunos.b7web.com.br/discussions/open/6946">
+						<div class="discussion_item">
+								<div class="dis_img dis_img_solved">
+									<img src="./templete_files/text-file.png" border="0" width="25" height="25">
+								</div>
+								<div class="dis_info">
+									<div class="dis_title">
+										Ha diferença entre o Viewport									</div>
+									<div class="dis_author">postado por <img src="./templete_files/566da862859fee63aaf5c3e753a12d45.jpg" border="0" width="15" height="15"> Saulo D.&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<img src="./templete_files/time.png" border="0" width="13" height="13"> há 100+ dias atrás</div>
+								</div>
+								<div class="dis_posts">
+									2								</div>
+						</div>
+					</a>
+										<a target="_blank" href="https://alunos.b7web.com.br/discussions/open/6033">
+						<div class="discussion_item">
+								<div class="dis_img dis_img_solved">
+									<img src="./templete_files/text-file.png" border="0" width="25" height="25">
+								</div>
+								<div class="dis_info">
+									<div class="dis_title">
+										Usando o FlexBox									</div>
+									<div class="dis_author">postado por <img src="./templete_files/50c5a3a2f479d2579133e4783fc63e75.jpg" border="0" width="15" height="15"> Carlos A.&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<img src="./templete_files/time.png" border="0" width="13" height="13"> há 100+ dias atrás</div>
+								</div>
+								<div class="dis_posts">
+									2								</div>
+						</div>
+					</a>
+										<a target="_blank" href="https://alunos.b7web.com.br/discussions/open/7289">
+						<div class="discussion_item">
+								<div class="dis_img dis_img_solved">
+									<img src="./templete_files/text-file.png" border="0" width="25" height="25">
+								</div>
+								<div class="dis_info">
+									<div class="dis_title">
+										Nao consigo deixar centralizado o header									</div>
+									<div class="dis_author">postado por <img src="./templete_files/0686ed026575f8e35f4595fecea628fe.jpg" border="0" width="15" height="15"> Felipe G.&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<img src="./templete_files/time.png" border="0" width="13" height="13"> há 100+ dias atrás</div>
+								</div>
+								<div class="dis_posts">
+									3								</div>
+						</div>
+					</a>
+										<a target="_blank" href="https://alunos.b7web.com.br/discussions/open/4620">
+						<div class="discussion_item">
+								<div class="dis_img dis_img_solved">
+									<img src="./templete_files/text-file.png" border="0" width="25" height="25">
+								</div>
+								<div class="dis_info">
+									<div class="dis_title">
+										Captura da tela									</div>
+									<div class="dis_author">postado por <img src="./templete_files/83d437b45f23a3a79c57b77c476811ea.jpg" border="0" width="15" height="15"> Pedro H.&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<img src="./templete_files/time.png" border="0" width="13" height="13"> há 100+ dias atrás</div>
+								</div>
+								<div class="dis_posts">
+									2								</div>
+						</div>
+					</a>
+										<a target="_blank" href="https://alunos.b7web.com.br/discussions/open/5664">
+						<div class="discussion_item">
+								<div class="dis_img dis_img_solved">
+									<img src="./templete_files/text-file.png" border="0" width="25" height="25">
+								</div>
+								<div class="dis_info">
+									<div class="dis_title">
+										não funciona o display:flex?									</div>
+									<div class="dis_author">postado por <img src="./templete_files/b92e70b66e61256a6c7255c979e462cc.jpg" border="0" width="15" height="15"> Diego O.&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<img src="./templete_files/time.png" border="0" width="13" height="13"> há 100+ dias atrás</div>
+								</div>
+								<div class="dis_posts">
+									5								</div>
+						</div>
+					</a>
+										<a target="_blank" href="https://alunos.b7web.com.br/discussions/open/4590">
+						<div class="discussion_item">
+								<div class="dis_img dis_img_solved">
+									<img src="./templete_files/text-file.png" border="0" width="25" height="25">
+								</div>
+								<div class="dis_info">
+									<div class="dis_title">
+										WEBKIT No flex-box 									</div>
+									<div class="dis_author">postado por <img src="./templete_files/0f6954e55117e7f73590e94eb9c57b42.jpg" border="0" width="15" height="15"> Caio F.&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<img src="./templete_files/time.png" border="0" width="13" height="13"> há 100+ dias atrás</div>
+								</div>
+								<div class="dis_posts">
+									2								</div>
+						</div>
+					</a>
+										<a target="_blank" href="https://alunos.b7web.com.br/discussions/open/10062">
+						<div class="discussion_item">
+								<div class="dis_img ">
+									<img src="./templete_files/text-file.png" border="0" width="25" height="25">
+								</div>
+								<div class="dis_info">
+									<div class="dis_title">
+										Ferramenta para leitura de layout									</div>
+									<div class="dis_author">postado por <img src="./templete_files/default.jpg" border="0" width="15" height="15"> welington P.&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<img src="./templete_files/time.png" border="0" width="13" height="13"> há 14 dias atrás</div>
+								</div>
+								<div class="dis_posts">
+									3								</div>
+						</div>
+					</a>
+										<a target="_blank" href="https://alunos.b7web.com.br/discussions/open/9104">
+						<div class="discussion_item">
+								<div class="dis_img ">
+									<img src="./templete_files/text-file.png" border="0" width="25" height="25">
+								</div>
+								<div class="dis_info">
+									<div class="dis_title">
+										Colocar icone no titulo da página e na barra de endereço									</div>
+									<div class="dis_author">postado por <img src="./templete_files/default.jpg" border="0" width="15" height="15"> Rodrigo D.&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<img src="./templete_files/time.png" border="0" width="13" height="13"> há 53 dias atrás</div>
+								</div>
+								<div class="dis_posts">
+									2								</div>
+						</div>
+					</a>
+										<a target="_blank" href="https://alunos.b7web.com.br/discussions/open/5046">
+						<div class="discussion_item">
+								<div class="dis_img dis_img_solved">
+									<img src="./templete_files/text-file.png" border="0" width="25" height="25">
+								</div>
+								<div class="dis_info">
+									<div class="dis_title">
+										Duvida local correto do height									</div>
+									<div class="dis_author">postado por <img src="./templete_files/default.jpg" border="0" width="15" height="15"> BRUNO B.&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<img src="./templete_files/time.png" border="0" width="13" height="13"> há 100+ dias atrás</div>
+								</div>
+								<div class="dis_posts">
+									2								</div>
+						</div>
+					</a>
+										<a target="_blank" href="https://alunos.b7web.com.br/discussions/open/6080">
+						<div class="discussion_item">
+								<div class="dis_img dis_img_solved">
+									<img src="./templete_files/text-file.png" border="0" width="25" height="25">
+								</div>
+								<div class="dis_info">
+									<div class="dis_title">
+										Dúvida sobre tag nav									</div>
+									<div class="dis_author">postado por <img src="./templete_files/2ae0d669fdbf90f0b3e7c790d5dbb3f9.jpg" border="0" width="15" height="15"> Adenn E.&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<img src="./templete_files/time.png" border="0" width="13" height="13"> há 100+ dias atrás</div>
+								</div>
+								<div class="dis_posts">
+									1								</div>
+						</div>
+					</a>
+										<a target="_blank" href="https://alunos.b7web.com.br/discussions/open/10331">
+						<div class="discussion_item">
+								<div class="dis_img ">
+									<img src="./templete_files/text-file.png" border="0" width="25" height="25">
+								</div>
+								<div class="dis_info">
+									<div class="dis_title">
+										Curioso...NetBeans7.4 não reconhece justify-content									</div>
+									<div class="dis_author">postado por <img src="./templete_files/default.jpg" border="0" width="15" height="15"> Jung M.&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<img src="./templete_files/time.png" border="0" width="13" height="13"> há 7 dias atrás</div>
+								</div>
+								<div class="dis_posts">
+									2								</div>
+						</div>
+					</a>
+										<a target="_blank" href="https://alunos.b7web.com.br/discussions/open/9390">
+						<div class="discussion_item">
+								<div class="dis_img dis_img_solved">
+									<img src="./templete_files/text-file.png" border="0" width="25" height="25">
+								</div>
+								<div class="dis_info">
+									<div class="dis_title">
+										Uma curiosidade sobre a unidade PX									</div>
+									<div class="dis_author">postado por <img src="./templete_files/ad88a64e1ccdd932d693bab7a341bf60.jpg" border="0" width="15" height="15"> Douglas C.&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<img src="./templete_files/time.png" border="0" width="13" height="13"> há 44 dias atrás</div>
+								</div>
+								<div class="dis_posts">
+									2								</div>
+						</div>
+					</a>
+										<a target="_blank" href="https://alunos.b7web.com.br/discussions/open/5215">
+						<div class="discussion_item">
+								<div class="dis_img dis_img_solved">
+									<img src="./templete_files/text-file.png" border="0" width="25" height="25">
+								</div>
+								<div class="dis_info">
+									<div class="dis_title">
+										Não consigo da margem,									</div>
+									<div class="dis_author">postado por <img src="./templete_files/b27e498a23d0cf6d4343a1c1e2032340.jpg" border="0" width="15" height="15"> Josias M.&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<img src="./templete_files/time.png" border="0" width="13" height="13"> há 100+ dias atrás</div>
+								</div>
+								<div class="dis_posts">
+									3								</div>
+						</div>
+					</a>
+																	</div>
+		</div>
+	</div>
+	<div class="col-sm-4">
+		<div class="box">
+			<div class="box-title">
+				HTML5 e CSS3			</div>
+			<div class="box-body">
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/353">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Tag Header, Footer e Nav</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/354">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Tag Section, Article, Aside e Time</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/355">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Compatibilidade com HTML 5</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/356">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Tags de Input</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/357">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Atributo Data</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/358">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Tag Vídeo</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/359">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Tag Audio</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/360">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Media Query</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/361">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Design Responsivo 1</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/362">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Design Responsivo 2</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/363">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Chrome Developer Tools</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/364">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Viewport</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/365">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Placeholder</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/366">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Autofocus</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/367">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Size e MaxLength</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/368">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Required Input</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/369">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> AutoComplete</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/373">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Normalize.css</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/374">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Borda Arredondada</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/375">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Degradê</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/376">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Animações</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/377">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Sombras</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/378">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Transições</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/379">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Webkit</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/380">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> WordWrap</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/772">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Meta tag (social sharing)</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/383">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Montando um portal (1/10)</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/384">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Montando um portal (2/10)</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/385">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Montando um portal (3/10)</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/386">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Montando um portal (4/10)</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/387">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Montando um portal (5/10)</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/388">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Montando um portal (6/10)</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/389">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Montando um portal (7/10)</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/390">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Montando um portal (8/10)</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/391">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Montando um portal (9/10)</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/392">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Montando um portal (10/10)</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/566">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Portal - Responsivo (1/3)</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/567">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Portal - Responsivo (2/3)</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/568">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Portal - Responsivo (3/3)</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/1296">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Flexbox: Introdução e Direções</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/1297">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Flexbox: Alinhamentos (1/2)</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/1298">
+							<img src="./templete_files/checked-symbol.png" border="0" width="15" height="15"> Flexbox: Alinhamentos (2/2)</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/1308">
+							<img src="./templete_files/facetime-button.png" border="0" width="15" height="15"> <strong style="color:#000">Projeto: Site com Flexbox e HTML Semântico (parte 1)</strong></a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/1309">
+							<img src="./templete_files/facetime-button.png" border="0" width="15" height="15"> Projeto: Site com Flexbox e HTML Semântico (parte 2)</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/1314">
+							<img src="./templete_files/facetime-button.png" border="0" width="15" height="15"> Projeto: Site com Flexbox e HTML Semântico (parte 3)</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/1315">
+							<img src="./templete_files/facetime-button.png" border="0" width="15" height="15"> Projeto: Site com Flexbox e HTML Semântico (parte 4)</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/1321">
+							<img src="./templete_files/facetime-button.png" border="0" width="15" height="15"> Projeto: Site com Flexbox e HTML Semântico (parte 5)</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/1322">
+							<img src="./templete_files/facetime-button.png" border="0" width="15" height="15"> Projeto: Site com Flexbox e HTML Semântico (parte 6)</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/1329">
+							<img src="./templete_files/facetime-button.png" border="0" width="15" height="15"> Projeto: Site com Flexbox e HTML Semântico (parte 7)</a>
+					</div>
+									<div class="log_item">
+						<a href="https://alunos.b7web.com.br/lesson/open/1330">
+							<img src="./templete_files/facetime-button.png" border="0" width="15" height="15"> Projeto: Site com Flexbox e HTML Semântico (parte 8)</a>
+					</div>
+							</div>
+		</div>
+		<div class="box">
+			<div class="box-title">
+				Últimas atividades
+			</div>
+			<div class="box-body">
+																				<div class="log_item">
+							<img src="./templete_files/default.jpg" border="0" width="14" height="14">
+							<strong>Leomar D.</strong> assistiu esta aula há 2 horas atrás
+						</div>
+											<div class="log_item">
+							<img src="./templete_files/default.jpg" border="0" width="14" height="14">
+							<strong>Yago C.</strong> assistiu esta aula há 2 horas atrás
+						</div>
+											<div class="log_item">
+							<img src="./templete_files/default.jpg" border="0" width="14" height="14">
+							<strong>LUCAS D.</strong> assistiu esta aula há 14 horas atrás
+						</div>
+											<div class="log_item">
+							<img src="./templete_files/5106440f26684415cd70dd26c6bd2ec5.jpg" border="0" width="14" height="14">
+							<strong>Wanderlei H.</strong> assistiu esta aula há 19 horas atrás
+						</div>
+											<div class="log_item">
+							<img src="./templete_files/92a7f834f27e960e8a7a11af2f269cde.jpg" border="0" width="14" height="14">
+							<strong>Sandro B.</strong> assistiu esta aula há 20 horas atrás
+						</div>
+																	</div>
+		</div>
+	</div>
+</div>
+<br><br><br>
+<script src="./templete_files/player.js.download"></script>
+<script type="text/javascript" src="./templete_files/lessons.js.download"></script>
+<script type="text/javascript">
+var lid = '1308';
+</script>    	</div>
+    	<div class="notification_area">
+    		<div class="notification">
+    			<img src="./templete_files/thumbs-up-hand-symbol.png" border="0" width="35" height="35">
+    			<strong>Parabéns!</strong><br>
+    			<span>Você ganhou +1 ponto!</span>
+    		</div>
+    	</div>
+		<script type="text/javascript">var BASE_URL = 'https://alunos.b7web.com.br/';</script>
+		<script type="text/javascript" src="./templete_files/bootstrap.min.js.download"></script>
+		<script type="text/javascript" src="./templete_files/jquery.magnific-popup.min.js.download"></script>
+		<script type="text/javascript" src="./templete_files/script.js.download"></script>
+	
+<div id="window_resizer_tooltip_wrapper" data-pos-y="bottom" data-pos-x="right" class="visible" style="transform: scale(1) translateY(490px) translateX(1070px);"></div></body></html>
